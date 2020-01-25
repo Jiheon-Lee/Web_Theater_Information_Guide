@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+WebSite Theater Information Guide
+=========================
 
-You can use the [editor on GitHub](https://github.com/Jiheon-Lee/Web_Theater_Information_Guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jiheon-Lee/Web_Theater_Information_Guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2019년도 TEAMLAB 동계 학부 스터디의 TIG 프로젝트 웹 사이트를 Github의 pages 기능으로 웹호스팅을 하기 위한 Repository 입니다. 자세한 내용은 https://github.com/Jiheon-Lee/teamlab_2019_winter 를 참고하여 주시길 바랍니다.
